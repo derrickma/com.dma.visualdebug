@@ -1,4 +1,4 @@
-﻿namespace Dma.BaseGame
+﻿namespace Dma.VisualDebug
 {
     public static class Package
     {

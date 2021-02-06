@@ -1,0 +1,16 @@
+{
+    "name": "Dma.VisualDebug",
+    "references": [
+        "GUID:9998d2363fc5a4d9f815ac2f8154ae1c",
+        "GUID:333c7e04bc2394e0d86445f3465607a0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
