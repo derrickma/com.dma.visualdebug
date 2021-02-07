@@ -5,7 +5,7 @@
     "description": "This is visual debug package, displaying lines, dots and all different shapes in game view for debugging",
     "unity": "2018.1",
     "dependencies": {
-        "com.dma.basegame": "https://github.com/derrickma/com.dma.basegame.git#v0.0.2",
+        "com.dma.basegame": "https://github.com/derrickma/com.dma.basegame.git",
         "com.dma.geometry2d": "https://github.com/derrickma/com.dma.geometry2d.git"
     },
     "author": {
