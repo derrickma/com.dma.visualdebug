@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace Dma.VisualDebug
 {
-    public class VisualDebugManager : SingletoManager<VisualDebugManager>
+    public class VisualDebugManager : SingletonManager<VisualDebugManager>
     {
         public enum DebugColor
         {
